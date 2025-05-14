@@ -1,0 +1,5 @@
+# This file is used to specify the dependencies for the project.
+streamlit==1.22.0
+pandas==1.5.3
+plotly==5.11.0
+python-dateutil==2.8.2
